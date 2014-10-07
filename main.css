@@ -5,3 +5,10 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
 }
+.container {
+  background-color: rgba(255, 255, 255, 0.20);
+  margin-left: 60px;
+  padding: 50px 64px;
+  width: 560px;
+  min-height: 800px;
+}
